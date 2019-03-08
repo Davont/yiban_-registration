@@ -2,6 +2,7 @@
 
 [![Build Status](https://www.travis-ci.org/Davont/yiban_registration.svg?branch=master)](https://www.travis-ci.org/Davont/yiban_registration)
 [![Coverage Status](https://coveralls.io/repos/github/Davont/yiban_registration/badge.svg?branch=master)](https://coveralls.io/github/Davont/yiban_registration?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDavont%2Fyiban_registration.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDavont%2Fyiban_registration?ref=badge_shield)
 
 _The system provides online registration service for freshmen of yiban_
 
@@ -78,3 +79,7 @@ _Thanks to [NemoAlex][2] for the export tool : [leanstorage-exporter][3]_
 [1]: https://leancloud.cn/
 [2]: https://github.com/NemoAlex
 [3]: https://github.com/ROYL-Design/leanstorage-exporter
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDavont%2Fyiban_registration.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDavont%2Fyiban_registration?ref=badge_large)
